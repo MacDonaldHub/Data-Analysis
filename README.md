@@ -15,7 +15,7 @@ iv. Querying the data
 v. Using If Function to sort the data to my desired state
 vi. Using VLookup to pick the desired data set from the long list of columns found in the synchronized data and organize it
 vii. Using pivot tables to clearly show the Total number of subscribers, average number of subscribers, average cost per subject at each level, average content duration and average rating per subject at each level
-# Findings:![Findings Visual Chart](https://user-images.githubusercontent.com/110080287/183278794-b2e82ea8-50bd-4d98-8026-89f5bab31b34.png)
+# Findings:![Visual Chart on Findings](https://user-images.githubusercontent.com/110080287/183284880-5ad46b96-9f34-45eb-bf43-2b7670bf9bda.png)
 I discovered as is seen in the visual chart above, that Web Development generates 63% of the entire company's revenue as well as having the most subscribers with the highest content duration. Graphics design was way ahead every other courses in rating which shows that Subscribers interest is high on it as well.
 # Recommendation:
 In my own humble opinion, i recommend that Web development and Graphics design be given optimum evaluation and its prices reviwed so as to grow the number of revenue hence increasing their next quarterly earnings
